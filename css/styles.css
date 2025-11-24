@@ -8,6 +8,9 @@ body {
   align-items: center;
   height: 100vh;
   background-image: url("https://wallpaperaccess.com/full/1118512.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 
 h1 {
